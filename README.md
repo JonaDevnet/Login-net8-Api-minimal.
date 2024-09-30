@@ -13,12 +13,13 @@ Este proyecto es una API minimalista en C# diseñada para manejar un único mét
 
 ```bash
 📦ProyectoAPI
+ ┣ 📂CapaAcceso
+ ┣ 📂CapaModelo
  ┣ 📂CapaDatos
  ┣ 📂CapaNegocios
- ┣ 📂CapaServicios
  ┣ 📂CapaAPI
- ┣ 📂CapaEncriptacion
- ┣ 📜Program.cs
+ ┣ 📂CapaServicios
+ ┣ 📜Solucion.sln
  ┗ 📜README.md
 ```
 ## 🛠️ Tecnologías Utilizadas
