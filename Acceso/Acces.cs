@@ -10,7 +10,7 @@ namespace acceso
 {
     public class Acces
     {
-        private SqlConnection _conecction = new SqlConnection(@"Data Source=.\SQLEXPRESS02;Initial Catalog=LoginLogout;Integrated Security=True");
+        private SqlConnection _conecction = new SqlConnection(@"Server=tu-servidor;Database=tu-database;User Id=usuario;Password=contraseña;");
 
         private SqlCommand? _command;
 
