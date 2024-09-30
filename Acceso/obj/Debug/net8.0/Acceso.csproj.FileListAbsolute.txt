@@ -1,0 +1,12 @@
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\bin\Debug\net8.0\Acceso.deps.json
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\bin\Debug\net8.0\Acceso.dll
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\bin\Debug\net8.0\Acceso.pdb
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\Acceso.csproj.AssemblyReference.cache
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\Acceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\Acceso.AssemblyInfoInputs.cache
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\Acceso.AssemblyInfo.cs
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\Acceso.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\Acceso.dll
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\refint\Acceso.dll
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\Acceso.pdb
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Acceso\obj\Debug\net8.0\ref\Acceso.dll

@@ -1,0 +1,11 @@
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\bin\Debug\net8.0\Serviss.deps.json
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\bin\Debug\net8.0\Serviss.dll
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\bin\Debug\net8.0\Serviss.pdb
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\obj\Debug\net8.0\Serviss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\obj\Debug\net8.0\Serviss.AssemblyInfoInputs.cache
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\obj\Debug\net8.0\Serviss.AssemblyInfo.cs
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\obj\Debug\net8.0\Serviss.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\obj\Debug\net8.0\Serviss.dll
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\obj\Debug\net8.0\refint\Serviss.dll
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\obj\Debug\net8.0\Serviss.pdb
+C:\Users\Joni\source\repos\LoginLogoutnCapas\Services\obj\Debug\net8.0\ref\Serviss.dll
